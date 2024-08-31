@@ -18,6 +18,7 @@ In order to run this projest, you must have access to DigitalWorks software and 
         - Now, to start the simulation, click Run.
 
         usage
-        The inputs are generated using sequence generator
+        The inputs are generated using sequence generator, and on the outputs we connected the LEDs of which the expected outcomes are achieved with the corresponding input bits. The LED outputs are labled S0, S1 and C. The S0 LED represents the sum of the input A0 and B0, S1 represents the sum of A1 and B1, while the C represents the carry bit. The LED's will go on when the output is high and off when the output is low.
+
 
         
